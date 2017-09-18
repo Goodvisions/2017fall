@@ -1,0 +1,6 @@
+<nav class="nav nav-pills nav-fill">
+  <a class="nav-item nav-link active" href="www.stussy.com">Collect</a>
+  <a class="nav-item nav-link" href="www.forbes.com">Brothers</a>
+  <a class="nav-item nav-link" href="www.instagram.com/goodvisionsnyc">About</a>
+  <a class="nav-item nav-link disabled" href="#">Disabled</a>
+</nav>
