@@ -1,9 +1,0 @@
-<div class="Goodvisions">
-  <button onclick="myFunction(https://www.instagram.com/goodvisionsnyc/)" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Catalog</a>
-    <a href="#">Shop</a>
-    <a href="#">SS 18 3</a>
-<a href="#">Contact</a>
-  </div>
-</div>
