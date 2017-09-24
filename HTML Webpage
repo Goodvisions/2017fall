@@ -1,0 +1,37 @@
+<html> 
+	<head>  
+		<title> GoodvisionsNYC</title> 
+        </head>
+
+<body> 
+
+<h1>Big</h1> 
+<h2> not so big </h2>
+<h3> not really big</h3>
+
+<p>
+this is <strong>bold</strong>
+     
+this is <em>italic</em>
+</p>                    
+
+<a>google.com</a>  
+This is for Links	 	<a href="www.instagram.com/goodvisionsnyc"> <strong> Site </strong> </a>
+This is For images		<img src="http://media.gettyimages.com/photos/dom-kennedy-paris-hilton-and-nipsey-hussle-pose-for-skee-live-in-the-picture-id182627796
+
+
+(List of items tags with dots)
+<ul> 
+<li> 4 Guys</li>
+<li> about</li>
+</ul>
+
+(list of items with numerals)
+<ol>
+<li> Item 1 </li>
+<li>item 2 </li>
+</ol>
+
+	</body>
+
+</html>
